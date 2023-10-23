@@ -1,0 +1,14 @@
+C:\Users\ACER\Desktop\Collections_Generics_23.10\LibraryTask\LibraryTask\bin\Debug\net6.0\LibraryTask.exe
+C:\Users\ACER\Desktop\Collections_Generics_23.10\LibraryTask\LibraryTask\bin\Debug\net6.0\LibraryTask.deps.json
+C:\Users\ACER\Desktop\Collections_Generics_23.10\LibraryTask\LibraryTask\bin\Debug\net6.0\LibraryTask.runtimeconfig.json
+C:\Users\ACER\Desktop\Collections_Generics_23.10\LibraryTask\LibraryTask\bin\Debug\net6.0\LibraryTask.dll
+C:\Users\ACER\Desktop\Collections_Generics_23.10\LibraryTask\LibraryTask\bin\Debug\net6.0\LibraryTask.pdb
+C:\Users\ACER\Desktop\Collections_Generics_23.10\LibraryTask\LibraryTask\obj\Debug\net6.0\LibraryTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\Collections_Generics_23.10\LibraryTask\LibraryTask\obj\Debug\net6.0\LibraryTask.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\Collections_Generics_23.10\LibraryTask\LibraryTask\obj\Debug\net6.0\LibraryTask.AssemblyInfo.cs
+C:\Users\ACER\Desktop\Collections_Generics_23.10\LibraryTask\LibraryTask\obj\Debug\net6.0\LibraryTask.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Collections_Generics_23.10\LibraryTask\LibraryTask\obj\Debug\net6.0\LibraryTask.dll
+C:\Users\ACER\Desktop\Collections_Generics_23.10\LibraryTask\LibraryTask\obj\Debug\net6.0\refint\LibraryTask.dll
+C:\Users\ACER\Desktop\Collections_Generics_23.10\LibraryTask\LibraryTask\obj\Debug\net6.0\LibraryTask.pdb
+C:\Users\ACER\Desktop\Collections_Generics_23.10\LibraryTask\LibraryTask\obj\Debug\net6.0\LibraryTask.genruntimeconfig.cache
+C:\Users\ACER\Desktop\Collections_Generics_23.10\LibraryTask\LibraryTask\obj\Debug\net6.0\ref\LibraryTask.dll

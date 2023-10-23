@@ -1,0 +1,14 @@
+C:\Users\ACER\Desktop\Collections_Generics_23.10\Task_1_23.10\Task_1_23.10\bin\Debug\net6.0\Task_1_23.10.exe
+C:\Users\ACER\Desktop\Collections_Generics_23.10\Task_1_23.10\Task_1_23.10\bin\Debug\net6.0\Task_1_23.10.deps.json
+C:\Users\ACER\Desktop\Collections_Generics_23.10\Task_1_23.10\Task_1_23.10\bin\Debug\net6.0\Task_1_23.10.runtimeconfig.json
+C:\Users\ACER\Desktop\Collections_Generics_23.10\Task_1_23.10\Task_1_23.10\bin\Debug\net6.0\Task_1_23.10.dll
+C:\Users\ACER\Desktop\Collections_Generics_23.10\Task_1_23.10\Task_1_23.10\bin\Debug\net6.0\Task_1_23.10.pdb
+C:\Users\ACER\Desktop\Collections_Generics_23.10\Task_1_23.10\Task_1_23.10\obj\Debug\net6.0\Task_1_23.10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\Collections_Generics_23.10\Task_1_23.10\Task_1_23.10\obj\Debug\net6.0\Task_1_23.10.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\Collections_Generics_23.10\Task_1_23.10\Task_1_23.10\obj\Debug\net6.0\Task_1_23.10.AssemblyInfo.cs
+C:\Users\ACER\Desktop\Collections_Generics_23.10\Task_1_23.10\Task_1_23.10\obj\Debug\net6.0\Task_1_23.10.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Collections_Generics_23.10\Task_1_23.10\Task_1_23.10\obj\Debug\net6.0\Task_1_23.10.dll
+C:\Users\ACER\Desktop\Collections_Generics_23.10\Task_1_23.10\Task_1_23.10\obj\Debug\net6.0\refint\Task_1_23.10.dll
+C:\Users\ACER\Desktop\Collections_Generics_23.10\Task_1_23.10\Task_1_23.10\obj\Debug\net6.0\Task_1_23.10.pdb
+C:\Users\ACER\Desktop\Collections_Generics_23.10\Task_1_23.10\Task_1_23.10\obj\Debug\net6.0\Task_1_23.10.genruntimeconfig.cache
+C:\Users\ACER\Desktop\Collections_Generics_23.10\Task_1_23.10\Task_1_23.10\obj\Debug\net6.0\ref\Task_1_23.10.dll
